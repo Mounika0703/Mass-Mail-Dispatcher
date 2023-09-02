@@ -56,7 +56,7 @@ function sendEmail() {
        
         Host: "smtp.elasticemail.com",
         Username: "mounikakillana2004@gmail.com", 
-        Password: "Mouni2004@",  
+        Password: "SDFY@ERGtf",  
         To: "mounikakillana2004@gmail.com",
         From: "mounikakillana2004@gmail.com",
 
